@@ -1328,6 +1328,8 @@ ul {
   transform: translate(0);
   transition: all 1000ms ease;
   transition-delay: 200ms;
+  position: absolute;
+  top: 17%;
 }
 
 .main-slider__social {
